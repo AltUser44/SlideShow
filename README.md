@@ -1,4 +1,4 @@
-**Wellness Destinations Slide Show**
+*Wellness Destinations Slide Show*
 
 
 Project Overview
@@ -10,16 +10,16 @@ Project Structure
 
 Slide Show/
 ├── src/
-│   ├── SlideShow.java        # Main application file
-│   └── resources/            # Image resources directory
-│       ├── iceland_bluelagoon.jpg
-│       ├── bali_yoga_retreat.jpg
-│       ├── sedona_spa.jpg
-│       ├── costa_rica_ecolodge.jpg
-│       └── swiss_thermal_baths.jpg
+├── SlideShow.java        # Main application file
+└── resources/            # Image resources directory
+├── iceland_bluelagoon.jpg
+├── bali_yoga_retreat.jpg
+├── sedona_spa.jpg
+├── costa_rica_ecolodge.jpg
+└── swiss_thermal_baths.jpg
 └── bin/                      # Compiled class files
 
-**Development Environment**
+*Development Environment*
 
 Java Version: Java SE 8 (1.8)
 IDE: Eclipse
@@ -66,15 +66,15 @@ Caption background: Light gray (RGB: 245, 247, 250)
 Caption font: SansSerif, 14pt
 Proper padding and margins throughout
 
-**Running the Application**
+*Running the Application*
 The application can be launched by running the SlideShow class. The main method utilizes EventQueue.invokeLater() for proper Swing thread management.
 
-**Dependencies**
+*Dependencies*
 Java SE 8 or higher
 Standard Java Swing libraries
 No external dependencies required
 
-**Project Configuration**
+*Project Configuration*
 Source folders properly configured in Eclipse
 Java compiler settings optimized for debug information
 UTF-8 encoding is enforced project-wide
