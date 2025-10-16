@@ -4,6 +4,10 @@
 This is a Java-based desktop application that showcases a curated collection of top wellness destinations around the world. 
 The application presents a slideshow interface with high-quality images and descriptive captions for each destination.
 
+
+<img width="803" height="590" alt="Screenshot 2025-10-15 204445" src="https://github.com/user-attachments/assets/ef331a84-17b2-4dfb-9a57-a55070c7e19a" />
+
+
 Technical Details
 Project Structure
 
@@ -43,6 +47,7 @@ Costa Rica - Rainforest eco-lodges
 Swiss Alps - Thermal baths
 
 Technical Implementation
+
 UI Framework: Java Swing
 Layout Managers:
 BorderLayout for main frame
@@ -50,14 +55,17 @@ CardLayout for image and caption transitions
 FlowLayout for navigation buttons
 
 Image Handling:
+
 Smooth image scaling using Image.SCALE_SMOOTH
 Resource loading from classpath
 
 Memory Efficiency:
+
 Images loaded from resources as needed
 Proper resource management
 
 User Interface Details
+
 Window Size: 820x600 pixels
 Image Display Area: 800x450 pixels
 Custom styling:
@@ -69,11 +77,13 @@ Proper padding and margins throughout
 The application can be launched by running the SlideShow class. The main method utilizes EventQueue.invokeLater() for proper Swing thread management.
 
 **Dependencies**
+
 Java SE 8 or higher
 Standard Java Swing libraries
 No external dependencies required
 
 **Project Configuration**
+
 Source folders properly configured in Eclipse
 Java compiler settings optimized for debug information
 UTF-8 encoding is enforced project-wide
