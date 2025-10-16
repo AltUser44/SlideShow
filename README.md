@@ -1,7 +1,6 @@
 **Wellness Destinations Slide Show**
 
 
-Project Overview
 This is a Java-based desktop application that showcases a curated collection of top wellness destinations around the world. 
 The application presents a slideshow interface with high-quality images and descriptive captions for each destination.
 
