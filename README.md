@@ -1,4 +1,4 @@
-*Wellness Destinations Slide Show*
+**Wellness Destinations Slide Show**
 
 
 Project Overview
@@ -19,7 +19,7 @@ Slide Show/
 └── swiss_thermal_baths.jpg
 └── bin/                      # Compiled class files
 
-*Development Environment*
+**Development Environment**
 
 Java Version: Java SE 8 (1.8)
 IDE: Eclipse
@@ -69,12 +69,12 @@ Proper padding and margins throughout
 *Running the Application*
 The application can be launched by running the SlideShow class. The main method utilizes EventQueue.invokeLater() for proper Swing thread management.
 
-*Dependencies*
+**Dependencies**
 Java SE 8 or higher
 Standard Java Swing libraries
 No external dependencies required
 
-*Project Configuration*
+**Project Configuration**
 Source folders properly configured in Eclipse
 Java compiler settings optimized for debug information
 UTF-8 encoding is enforced project-wide
