@@ -88,3 +88,27 @@ Source folders properly configured in Eclipse
 Java compiler settings optimized for debug information
 UTF-8 encoding is enforced project-wide
 Resources configured as a source folder for proper classpath access
+
+
+
+# CS-250 Portfolio Artifact
+
+This repository contains my portfolio artifact for CS 250 - Software Development Lifecycle.
+
+## Artifact: Sprint Review and Retrospective
+*   **File:** [CS250/Sprint_Review_Retrospective.pdf](CS250/Sprint_Review_Retrospective.pdf)
+*   **Description:** This document reflects on my experience applying Agile and Scrum principles in the SNHU Travel Wellness Project, covering roles, user stories, and process evaluation.
+
+## Essential Questions Reflection
+
+**How do I identify user needs and incorporate them into a program? ** How does creating “user stories” help with this?**
+
+["I interpret user needs by closely collaborating with the Product Owner and stakeholders to understand the business goals and user pain points. In the SNHU Travel project, this meant shifting our focus to wellness destinations based on new requirements. Creating 'user stories' is crucial for this process because they break down large, complex needs into small, actionable units of value from the user's perspective. For instance, a story like 'As a wellness traveler, I want to see a slideshow of detox retreats so that I can find inspiration for my next trip' gave me a clear, testable goal to implement in code, ensuring the feature I built directly addressed a user need."]
+
+**How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**
+
+["My approach to development is iterative and collaborative, heavily influenced by Agile. I focus on delivering small, working pieces of software frequently rather than trying to build everything at once. For my future work, I hope to incorporate several key Agile processes. First, the use of short sprints to maintain focus and adaptability. Second, daily stand-up meetings to ensure clear communication and quickly address blockers. Finally, I value the practice of sprint reviews and retrospectives, as they create a formal feedback loop for both the product and the team's workflow, fostering continuous improvement."]
+
+**What does it mean to be a good team member in software development?**
+
+["Being a good team member in software development means being reliable, communicative, and collaborative. It involves proactively updating the team on your progress and challenges in daily stand-ups, as I did in this project. It also means being transparent when you need help and being willing to help others. A good team member respects the defined processes, like the roles in Scrum, and contributes to a positive team dynamic by actively participating in ceremonies like sprint planning and retrospectives, always focusing on the collective goal of delivering value to the customer."]
