@@ -96,7 +96,7 @@ Resources configured as a source folder for proper classpath access
 This repository contains my portfolio artifact for CS 250 - Software Development Lifecycle.
 
 ## Artifact: Sprint Review and Retrospective
-*   **File:** [CS250/Sprint_Review_Retrospective.pdf](CS250/Sprint_Review_Retrospective.pdf)
+*   **File:** [CS250/Sprint_Review_Retrospective.pdf](CS250/sprintreview.pdf)
 *   **Description:** This document reflects on my experience applying Agile and Scrum principles in the SNHU Travel Wellness Project, covering roles, user stories, and process evaluation.
 
 ## Essential Questions Reflection
