@@ -1,0 +1,60 @@
+**Applying Roles**
+
+Our Scrum-Agile team worked collaboratively to develop a travel booking application with a focus on wellness as part of the SNHU Travel project. 
+Each role contributed meaningfully to the project’s success. 
+My role as the Product Owner was to be the voice of the customer and to refine the backlog so we could shift our focus to wellness and detox destinations based on the updated business goal. 
+The Scrum Master was responsible for facilitating sprint planning, daily stand-ups, and the retrospective, which helped keep the team aligned and adaptive. 
+As a Developer, I was responsible for implementing the functional code in Eclipse, which would allow us to make changes to user interfaces, images, and text, shifting the focus to health and wellness travel. 
+The Tester played a critical role in validating that all new features worked as designed and met acceptance criteria. These roles collectively contributed to supporting continuous improvement and transparency.
+
+
+**Completing User Stories**
+
+The Scrum-Agile methodology simplified the organization and completion of user stories. 
+When requirements were divided into smaller user stories, we were able to work quickly and receive input from the Product Owner. 
+For example, when the Product Owner added new requirements for wellness travel, I modified the slideshow code, changing some of the media content and modifying the descriptive text to match the top wellness destinations. 
+Since we had an agile approach, I could incorporate the feedback in the code with minimal delay because I would not be struggling to catch up. 
+Agile ceremonies like sprint planning and sprint reviews helped the team produce adequate user stories and maintain focus on producing maximum value.
+
+
+**Handling Interruptions**
+
+When project priorities changed halfway through development, the Scrum framework helped to allow for the flexibility needed to adapt without compromising progress. 
+The Product Owner's request to change from general destinations to wellness travel required changing the code and media resources. 
+Instead of having to recreate the entire project plan again, we made the changes by reprioritizing items in the backlog during the sprint review and immediately making the changes in the next sprint. 
+This exemplified how Agile methodologies accept change by using transparency and iterations rather than sticking to a strict plan.
+
+
+**Communication**
+
+Clear communication was essential to the success of this project. 
+We provided regular updates using tools like JIRA and Confluence, so the entire team could follow progress, log issues, and capture user stories. 
+I provided updates on development progress, blockers, and next steps through daily stand-ups, which kept us all on the same page. 
+Written updates in the JIRA ticket notes were short and to the point, focused on solutions, for instance, when new image resources were added or descriptions of changed test cases. 
+These communication practices allowed for clarity, accountability, and collaboration in all roles. 
+
+**Organizational Tools**
+
+Tools for organization, such as JIRA, Confluence, and Eclipse IDE, helped the project stay organized and visible. 
+JIRA was used to track user stories, sprint velocity, and issue resolution. 
+Confluence was used to capture summaries of meetings and sprint retrospectives, so shared understanding could be established. 
+Scrum events allowed us to assess how well things went and to assess how we could improve, especially during the sprint review and retrospective. 
+An aligned approach to Agile philosophy, combined with the tools, motivated the team and helped to ensure consistent delivery of working code.
+
+
+**Evaluating Agile Process**
+
+Overall, the Scrum-Agile methodology worked extremely well for this SNHU Travel project. 
+Benefits of living adaptability, continuous collaboration, and quicker feedback loops enabled the team to navigate shifting requirements more easily. 
+Challenges included sustaining consistent communication initially as the transition began, as well as ensuring each team member fully understood their Agile responsibilities. 
+Despite minor modifications, the Scrum process demonstrated superiority over the waterfall by emphasizing customer feedback, iterative release, and transparency. 
+With all the shifting priorities of the project, Agile was the clear choice for the evolution of developing the wellness application for SNHU Travel.
+
+
+**References**
+
+Atlassian. (2023). Agile project management: Best practices and methodology overview. https://www.atlassian.com/agile/project-management 
+PMI. (2022). Agile practice guide. Project Management Institute.
+Scrum.org. (2023). The 2020 Scrum Guide: The definitive guide to Scrum. https://scrumguides.org  
+VersionOne. (2023). State of Agile report: Insights into Agile adoption and scaling. CollabNet VersionOne.
+
